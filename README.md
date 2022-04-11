@@ -1,14 +1,14 @@
-### **Hi, I'm [Seb](https://swegrock.github.io/)** 👌
-![Swegrock Stats](https://github-readme-stats.vercel.app/api?username=swegrock&show_icons=true&count_private=true&theme=synthwave&border_radius=20&custom_title=My%20Github%20Stats:)
+### **Hi, I'm [Seb](https://sebheron.github.io/)** 👌
+![SebHeron Stats](https://github-readme-stats.vercel.app/api?username=sebheron&show_icons=true&count_private=true&theme=synthwave&border_radius=20&custom_title=My%20Github%20Stats:)
 
 ### I'm currently studying Computer Science at [Keele University](https://www.keele.ac.uk)
 
 ### Projects I'm working on
-- 📅 [Stacket](https://swegrock.github.io/stacket) (A kanban board style application for developers)
-- 🎶 [JazzNotes](https://swegrock.github.io/jazznotes) (A notes making application for jazz musicians)
+- 📅 [Stacket](https://sebheron.github.io/stacket) (A kanban board style application for developers)
+- 🎶 [JazzNotes](https://sebheron.github.io/jazznotes) (A notes making application for jazz musicians)
 
 <!--
-**Swegrock/Swegrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sebheron/Sebheron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
