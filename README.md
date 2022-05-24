@@ -1,7 +1,7 @@
 ### **Hi, I'm [Seb](https://sebheron.github.io/)** 👌
-![SebHeron Stats](https://github-readme-stats.vercel.app/api?username=sebheron&show_icons=true&count_private=true&theme=synthwave&border_radius=20&custom_title=My%20Github%20Stats:)
+![HitCounter](https://komarev.com/ghpvc/?username=sebheron)
 
-### I'm currently studying Computer Science at [Keele University](https://www.keele.ac.uk)
+![SebHeron Stats](https://github-readme-stats.vercel.app/api?username=sebheron&show_icons=true&count_private=true&theme=synthwave&border_radius=20&custom_title=My%20Github%20Stats:)
 
 ### Projects I'm working on
 - 📅 [Stacket](https://sebheron.github.io/stacket) (A kanban board style application for developers)
